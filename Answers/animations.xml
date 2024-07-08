@@ -1,0 +1,34 @@
+<animations>
+    <animation>
+        <name>My Hero Academia</name>
+        <total_episodes>88</total_episodes>
+        <average_duration>25</average_duration>
+        <director>Kenji Nagasaki</director>
+        <characters>
+            <character>Izuku Midoriya</character>
+            <character>Katsuki Bakugo</character>
+        </characters>
+    </animation>
+    <animation>
+        <name>Attack on Titan</name>
+        <total_episodes>75</total_episodes>
+        <average_duration>23</average_duration>
+        <director>Tetsuro Araki</director>
+        <characters>
+            <character>Eren Yeager</character>
+            <character>Mikasa Ackerman</character>
+            <character>Armin Arlert</character>
+        </characters>
+    </animation>
+    <animation>
+        <name>One Piece</name>
+        <total_episodes>1000</total_episodes>
+        <average_duration>24</average_duration>
+        <director>Konosuke Uda</director>
+        <characters>
+            <character>Monkey D. Luffy</character>
+            <character>Roronoa Zoro</character>
+            <character>Nami</character>
+        </characters>
+    </animation>
+</animations>
